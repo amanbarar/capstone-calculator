@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Capstone Calculator
+
+Link for repo [here](https://github.com/amanbarar/capstone-calculator)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
